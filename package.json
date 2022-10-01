@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mystico",
+        "label": "Mystico - Purples",
         "uiTheme": "vs-dark",
         "path": "./themes/Mystico-color-theme.json"
       }
