@@ -1,0 +1,42 @@
+{
+  "name": "mystico",
+  "displayName": "Mystico",
+  "description": "Mystico color theme for Visual Studio Code",
+  "version": "0.0.3",
+  "publisher": "Chibantichic",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/mystico-purples.png",
+  "galleryBanner": {
+    "color": "#62adc4",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mystico",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystico-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/chibanti/mystico-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/chibanti/mystico-vscode-theme/issues",
+    "email": "nashuapc@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chibanti/mystico-vscode-theme.git"
+  },
+  "__metadata": {
+    "id": "b8b09473-b963-43b8-b987-5c58d9e9d6d8",
+    "publisherId": "959ed040-f750-4c6a-93aa-1a28d810ffd5",
+    "publisherDisplayName": "Chibantichic",
+    "installedTimestamp": 1622061733634
+  }
+}
