@@ -2,7 +2,7 @@
   "name": "mystico-purples",
   "displayName": "Mystico - Purples",
   "description": "Mystico - Purples color theme for Visual Studio Code",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "publisher": "Chibantichic",
   "engines": {
     "vscode": "^1.55.0"
